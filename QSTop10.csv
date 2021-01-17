@@ -1,0 +1,491 @@
+week,date,rank,skater,trick,line,switch,slowmo,ig,replayed,obstacle,obstacledetail,location,notes,points
+1,1/10/2020,10,Heitor Da Silva,bs noseslide to  bs 270,1,,,,,ledge,bench,,,1
+1,1/10/2020,9,Max Palmer,fs noseslide to switch fs shove,,,,1,,ledge,,Flushings Fountain,,2
+1,1/10/2020,8,Eniz Fazilov,fs feeble,,,,,1,ledge,hubba,,,3
+1,1/10/2020,7,Michael Juras,ollie,,,,,,gap,,,Quick footed,4
+1,1/10/2020,6,Will Marshall,bs nosebluntslide to bs shove,1,,,,1,ledge,,Citi Field Benches,,5
+1,1/10/2020,5,John Shanahan,fakie heelflip,1,,1,,,stairs,,CBS,,6
+1,1/10/2020,4,Jacopo Carozzi,Bs nosegrind to nollie kickflip,1,,,,,ledge,Ledge to gap,Milan,,7
+1,1/10/2020,3,Adrian Vega,Fakie bs shove to switch fs 5-0,1,,,,,ledge,,Pulaski,,8
+1,1/10/2020,2,Grady Smith,kickflip,,,1,,,gap,,,,9
+1,1/10/2020,1,Josh Wilson,ollie,, ,1,,1,gap,Bank to bank,,,10
+2,1/17/2020,10,Hermann Stene,slappy bs nosebluntslide,,,1,1,,curb,,,,1
+2,1/17/2020,9,Kyota Umeki,Drop in pole jam,1,,,,,pole,Basketball hoop pole,,Crazy obstacle,2
+2,1/17/2020,8,Adilson Pedro,Fakie fs heelflip,1,,1,,,stairs,Up stairs,,,3
+2,1/17/2020,7,Robbin De Wit,Bs noseslide to gap to fs tailslide,,,1,,,ledge,Ledge gap ledge,,Quick footed,4
+2,1/17/2020,6,Myquel Haddox,Bs crooked grind to fakie,1,,1,1,,ledge,Up ledge,,Crazy obstacle,5
+2,1/17/2020,5,Pedro Attenborough,Kickflip bs noseslide to fakie manual to fs half cab,,,,1,,ledge,,MACBA,Combo,6
+2,1/17/2020,4,Tim Zom,Bs boardslide to transfer,,,1,,,ledge,,,Crazy obstacle,7
+2,1/17/2020,3,Josh Pall,Kickflip to fs tailslide to drop in,,,1,,,ledge,hubba,,,8
+2,1/17/2020,2,Kyle Walker,Bs lipslide,,,,,1,ledge,Out ledge,Oakland Courthouse,,9
+2,1/17/2020,1,Ishod Wair,Switch bs crooked,,1,1,,1,ledge,Out ledge,Oakland Courthouse,,10
+3,1/24/2020,10,Sully Cormier,Run up stair to ollie,1,,,,,stairs,,,,1
+3,1/24/2020,9,Quinn Batley,Bs boardslide to bs hurricane,1,,,,,rail,Knobbed rail,Union Square,,2
+3,1/24/2020,8,Caleb Yuan,Switch ollie to fakie manual to fakie manual to fakie kickflip,,1,,,,Pad,Manual drop manual,,,3
+3,1/24/2020,7,Marcello Campanello,Bs kickflip to switch manual to switch fs 180,,,,,,Pad,Up stairs,,,4
+3,1/24/2020,6,John Dilo,Switch kickflip tailgrab, ,1,1,,1,stairs,,,,5
+3,1/24/2020,5,Aaron Goure,Bs boardslide to cannonball grab,,,1,,1,rail,cannon,,Crazy obstacle,6
+3,1/24/2020,4,Simon Källkvist,Bs noseslide to nollie heelflip,,,,,,Ledge,,,,7
+3,1/24/2020,3,Nolan Benfield,Bs noseslide,,,,,,rail,,,,8
+3,1/24/2020,2,Kareem Campbell,360flip to fakie,,,1,1,,transistion,quarterpipe,Indoor park,Berrics,9
+3,1/24/2020,1,Nick Matthews,Ollie to bs lipslide,,,1,,,ledge,Gap to ledge,,,10
+4,1/31/2020,10,Matt Gotwig,Bs kickflip to switch fs 50-50,,,,1,1,Curb,,,,1
+4,1/31/2020,9,Tyler Bledsoe,Bs noseslide,1,,,,,ledge,Hubba,,,2
+4,1/31/2020,8,Tom Knox,Bs 50-50 to wallie to bs 50-50,,,,,,ledge,Ledge to ledge,,,3
+4,1/31/2020,7,Marcus Shaw,Bs tailslide to bs kickflip,1,,,,1,ledge,,3rd & Army,,4
+4,1/31/2020,6,Ben Gore,Varial kickflip,,,,,1,gap,Over rail,,"Wrong name in titles, corrected",5
+4,1/31/2020,5,Marcel Aiha,Fs smith to kicklfip,,,,,,ledge,Ride on ,,,6
+4,1/31/2020,4,Fev Lilian,Bs 50-50 transfer to dirt ride,,,,,,rail,Flat rail,,,7
+4,1/31/2020,3,Ryan Conners,Bs 180 to fakie manual to bs cabbalerial kickflip,,,,1,,pad,,skatepark,,8
+4,1/31/2020,2,Tyler Surrey,nollie fs 360,1,1,,,,gap,Flat gap,, ,9
+4,1/31/2020,1,Giorgi Balkhamishvili,Nollie bs nosebluntslide to nosebluntslide,,1,,,,ledge,Ledge to ledge,,,10
+5,2/7/2020,10,Luc Ramos,Bs 360 ollie to dirt ride,,,,,,gap,,,,1
+5,2/7/2020,9,Ville Wester,Kickflip to bs tailslide,,,,1,1,transistion,Quarterpipe,skatepark,,2
+5,2/7/2020,8,Dane Barker,Ollie to fs 5-0,1,,,,,Ledge,Gap to ledge,,,3
+5,2/7/2020,7,Andrey Fedotenkov,Inward heelflip to fs tailslide,,,,,1,ledge,hubba,,,4
+5,2/7/2020,6,Misha Stepanov,Bs lipslide,1,,,,,ledge,hubba,,,5
+5,2/7/2020,5,Misha Kruglov,Ollie to ollie to bs nosebluntslide,1,,1,,,ledge,gap to gap to ledge,,Quick footed,6
+5,2/7/2020,4,Ben Narloch,Switch hardflip,,1,,,,stairs,,Union Square SF,,7
+5,2/7/2020,3,Antonio Durao,Switch fs shove to switch crooked,1,1,,1,,ledge,,,7 trick line,8
+5,2/7/2020,2,Tolia Titaev,Bs kickflip to switch roll in ,,,,,,flat,,,,9
+5,2/7/2020,1,Roman Ivanov,Fs tailslide to fakie,,,,,,rail,Flat rail to bank,,,10
+6,2/14/2020,10,Hugo Boserup,Bs noseslide,,,,1,,ledge,,,,1
+6,2/14/2020,9,Max Palmer,Fakie wallie to bs bigspin,,,,,,wall,,Blubba,,2
+6,2/14/2020,8,Koen Mulder,Ollie to 360flip,,,1,,1,gap,,,Quick footed,3
+6,2/14/2020,7,Jacopo Carozzi,ollie,,,,1,1,gap,Over rail,,,4
+6,2/14/2020,6,Jip Koorevaar,Fs smith to bs body varial,,,1, ,1,rail,handrail,,,5
+6,2/14/2020,5,Bobby DeKeyzer,Bs caballerial to bs nosebluntslide,1,,,,,ledge,,,,6
+6,2/14/2020,4,Lucas Puig,Nollie bs heelflip,,1,1,1,1,gap,Over hydrant,,,7
+6,2/14/2020,3,Shin Sanbongi,Bs wallride to bs 50-50,1,,,,,ledge,hubba,,,8
+6,2/14/2020,2,Hyun Kummer,hardflip,,,,,,stairs,Up stairs,,,9
+6,2/14/2020,1,Shane O’Neill,Switch Kicklfip to bs tailslide,,1,,,,curb,,,,10
+7,2/21/2020,10,Jamal Smith,Fakie fs bigspin heelflip,1,,,,,stairs,,3 Up 3 Down,,1
+7,2/21/2020,9,Dick Rizzo,Switch bs wallride to switch bs boardslide to fs Axel stall to fs shove,,1,,,,ledge,Wall to ledge,,,2
+7,2/21/2020,8,Dom Henry,Bs nosegrind to nose manual to nollie bs nosegrind,,,,1,,curb,,,Combo,3
+7,2/21/2020,7,Trevor Thompson,Ollie to ollie to bs 180 to fakie manual to bs 180,,,,,,pad,,,Quick footed,4
+7,2/21/2020,6,Alex Schmidt,Kickflip to roll in to dirt ride,,,1,,,gap,roof,,,5
+7,2/21/2020,5,Sam Sutton,360flip,,,1,,,stairs,Up stairs,,"Wrong name in titles, corrected : tow in",6
+7,2/21/2020,4,Christian Maloof,Bs caballerial,,,,,1,gap,Over rail,SF Hills,,7
+7,2/21/2020,3,Corey Glick,Fs half cab kickflip, , ,,,,stairs,,Tekashi Ten,,8
+7,2/21/2020,2,Pedro Delfino,Bs boardslide,1,,,,,ledge,hubba,,,9
+7,2/21/2020,1,Karsten Kleppan,Ride on 50-50 to kicklfip,,,1,,1,rail,Rail to gap,,,10
+8,2/28/2020,10,Andrew Reynolds,Bs 360 ollie,1,,,1,1,flat,Curb cut,,,1
+8,2/28/2020,9,Victor Campillo,Nollie fs 360,1,1,,,,flat,Over bench,,,2
+8,2/28/2020,8,Eli Reed,Switch bs 180 to nose manual to nollie fs bigspin to switch manual,,1,,1,,pad,,,Combo,3
+8,2/28/2020,7,Lucas Puig,Switch bs shove to switch fs nosegrind to fakie bs bigspin,,1,1,1,1,ledge,,Santa Monica ledges,,4
+8,2/28/2020,6,Ibu Sanyang,Ollie to hippie jump,,,,,,flat,Over rail,,Quick footed,5
+8,2/28/2020,5,Carl Aikens,Nose manual to ollie,,,,,,bank,Over rail,Bronx Courthouse,Quick footed,6
+8,2/28/2020,4,Figgy,Switch Bs lipslide,,1,1,,,rail,handrail,,,7
+8,2/28/2020,3,Dakota Servold,kicklfip,,,,,1,gap,Up gap,,,8
+8,2/28/2020,2,Jon Dickson,Kickflip bs noseslide,,,1,,1,ledge,Gap to ledge,,,9
+8,2/28/2020,1,Dylan Rieder,Bs kickflip,,,1,,,gap,Bump to bar,,,10
+9,3/6/2020,10,Kevin Taylor,Varial heelflip,,,,,,hip,,,,1
+9,3/6/2020,9,Vincent Huhta,Kickflip manual,,,,,,bank,,,,2
+9,3/6/2020,8,Jerry Mraz,Bs 360 ollie,,,,,,hip,,,,3
+9,3/6/2020,7,John Shanahan,heelflip,,,,,,gap,,,,4
+9,3/6/2020,6,Eze Martinez,Ollie to ollie to manual to ollie to bs 180 to fakie manual to fakie kickflip,,,,,,pad,,,Quick footed,5
+9,3/6/2020,5,Jack O’Grady,Gap to 50-50,,,1, ,1,rail,Gap to rail,,,6
+9,3/6/2020,4,Billy Griffin,Bs bigspin,,,1,,1,gap,Street gap,,,7
+9,3/6/2020,3,Giovanni Vianna,Bs half cab to straight on nose grind,,,1,,1,rail,handrail,Columbus Park,,8
+9,3/6/2020,2,Antonio Durao,hardflip,,,1,1,1,gap,,,,9
+9,3/6/2020,1,Mason Silva,Fakie kickflip,,,1,1,1,transistion,Quarterpipe,Indoor park,Tampa Pro,10
+10,3/13/2020,10,Diego Todd,Fs lipslide to fs nosebluntslide to fakie,,,,,,rail,Rail to curb,,,1
+10,3/13/2020,9,Alexey Krasniy,Fs 180 to switch fs 5-0 to switch bs 180,,,,,,ledge,Banked ledge,,,2
+10,3/13/2020,8,Cambryan Sedlick,Ollie to ride off,,,1,,,gap,,,Crazy obstacle,3
+10,3/13/2020,7,Jesse Alba,Bs wallride to bs nosebluntslide,,,1,,1,ledge,Bank to ledge,,,4
+10,3/13/2020,6,Zered,Switch fs tailslide to bs nosebluntslide,,1,,1,,transistion,Quarterpipe,Skatepark,,5
+10,3/13/2020,5,Hyun Kummer,Ollie to ollie to 360flip,1,,,,,stairs,,,Quick footed,6
+10,3/13/2020,4,Sam Murgatroyd,Bs nosegrind to bs 180,,,1,,1,ledge,,,,7
+10,3/13/2020,3,Billy Trick,Bs 50-50,,,,,,rail,Flat rail,,,8
+10,3/13/2020,2,Connor Champion,Switch fs crooked,,1,,1,1,ledge,Out ledge,Zuccotti Park,,9
+10,3/13/2020,1,Cyrus Bennett,Bs kickflip,,,,,,gap,Over rail,,,10
+11,3/20/2020,10,Karsten Kleppan,Slappy fs crooked,,,,1,,Curb,,Skatepark,First quarantine countdown,1
+11,3/20/2020,9,Juan Algora,Fs bluntslide to bs kickflip,,,1,,1,ledge,,,,2
+11,3/20/2020,8,Mike Arnold,Nose manual to ride on bs lipslide to fakie,,,,,,ledge,Pad to ledge,,Combo,3
+11,3/20/2020,7,Alexis Lacroix,nollie wallie bs kickflip,,1,,1,,Wall,,,,4
+11,3/20/2020,6,Val Bauer,Ollie to ollie,,,1,,1,stairs,Up stairs,,Quick footed,5
+11,3/20/2020,5,Ben Lawrie,Switch Fs noselide,,1,,1,,rail,Flat rail,DIY park,,6
+11,3/20/2020,4,Joey O’Brien,Bs 180 to switch nosegrind,,,,,1,ledge,Ledge to gap,Milan,,7
+11,3/20/2020,3,Lil’ Dre,Bs caballerial to bs tailslide,1,,,,,ledge,,Union Square SF,,8
+11,3/20/2020,2,Gustav Tonnesen,One foot nose bonk,,,1,,1,rail,handrail,,,9
+11,3/20/2020,1,Noah Holmes,Bs 50-50 to wallride to bs 50-50,,,1,,,ledge,Ledge to wall to ledge,,Combo,10
+12,3/27/2020,10,Phil Zwijsen,Dump truck to fs nosbluntslide,1,,,,,ledge,,,Wrong name in titles.,1
+12,3/27/2020,9,Val Bauer,Ride on fakie 5-0 to bs revert,1,,,,,curb,,,,2
+12,3/27/2020,8,Thanos Panou,Ride on to fs 50-50,,,,,,ledge,hubba,,,3
+12,3/27/2020,7,Louie Lopez ,Wallie bs 360 ollie,,,1,,1,wall,Bank to wall,,,4
+12,3/27/2020,6,Max Garson,Ride on bs crooked,,,1,,1,rail,handrail,,,5
+12,3/27/2020,5,AVE,Switch bs nosebluntslide,1,1,,1,,ledge,,,,6
+12,3/27/2020,4,Cambryan Sedlick,Bs ollie,,,,,,gap,Gap to bank,,,7
+12,3/27/2020,3,Luca Pinto,Narrow ledge ride,1,,,,,ledge,,,6 trick line,8
+12,3/27/2020,2,Roman Lisivka,Switch ollie to fakie manual to fakie varial kickflip to switch manual to switch fs shove,,1,,,,pad,,,,9
+12,3/27/2020,1,Jarne Verbruggen,Hippie jump to drop in,,,,,,flat,,,,10
+13,4/3/2020,10,Pedro Attenborough,Bs 360 ollie to manual,,,,,,pad,,,,1
+13,4/3/2020,9,Marius Chanut,Bs jam to fs heelflip,,,,,,wall,,,,2
+13,4/3/2020,8,Chris Milic,Fs 180 to fakie manual to drop,1,,,,,bank,,,,3
+13,4/3/2020,7,Mathias Sauvageon,boneless,,,1,,,stairs,Up stairs,,,4
+13,4/3/2020,6,Connor Champion,Bs nosebluntslide,,,1,1,1,ledge,,,,5
+13,4/3/2020,5,Ruben Spelta,Bs smith to bs bigspin,,,,,,ledge,Ledge to gap,Milan,,6
+13,4/3/2020,4,Marca Barbier,Bs crooked transfer,,,,,,rail,handrail,,,7
+13,4/3/2020,3,Taylor Smith,Hill bomb,1,,,,,flat,,SF Hills,5 trick line,8
+13,4/3/2020,2,Nick Michel,Bs bluntslide,,,1,,,ledge,hubba,,,9
+13,4/3/2020,1,Jeff Grosso,Pool run,1,,,,,transistion,pool,skatepark,,10
+14,4/10/2020,10,Rafa Cort Lorente,Kickflip to manual to roll in,,,,,1,pad,,,,1
+14,4/10/2020,9,Smiler,360flip hippie jump,,,1,,,flat,Into bank,,"Wrong name in titles, corrected",2
+14,4/10/2020,8,Chris Athans,Kickflip,1,,,,,gap,,SF Hills,5 trick line,3
+14,4/10/2020,7,Ish Cepeda,Fs heelflip,,,1,,1,gap,Bump to bar,,,4
+14,4/10/2020,6,Giovanni Vianna,Fs 50-50 to transfer bs shove,,,1,,1,Rail,handrail,,,5
+14,4/10/2020,5,Evan Smith,Ollie to manual to ollie,1,,,,,bank,Over rail into bank,,,6
+14,4/10/2020,4,Jaakko Ojanen,Fs crooked to fakie to fs 180 to switch bs 180 to fakie fs half cab kickflip,1,,,,,ledge,,,Quick footed,7
+14,4/10/2020,3,Casper Brooker,Bs lipslide,1,,,,1,ledge,,South Bank,Quick footed,8
+14,4/10/2020,2,Justin Brock,Nollie kickflip to bs wallride,,1,1,,1,wall,Wall down stairs,,,9
+14,4/10/2020,1,Lucas Puig,Switch kickflip bs nosebluntslide,,1,1,,1,Ledge,,,,10
+15,4/17/2020,10,Ville Wester,Bs tailslide to bs 360,,,,1,1,ledge,,,,1
+15,4/17/2020,9,Eniz Fazilov,Bs noseslide to bs noseslide,1,,,,,ledge,Ledge to ledge,, ,2
+15,4/17/2020,8,Simon Källkvist,Fs tailslide to fs heelflip body varial,,,,,,ledge,,, ,3
+15,4/17/2020,7,Carl Aikens,Bs heelflip,1,,,,,gap,Over rail,Museum of Natural History,,4
+15,4/17/2020,6,Thiago Lima,Fs shove,1,,,,1,stairs,,,,5
+15,4/17/2020,5,Rahzel Ashby,Bs wallride bs crooks,1,,1,,1,ledge,,Pulaski,,6
+15,4/17/2020,4,Dallas Rockvam,manual,,,1,,,Gap,roof,,Crazy obstacle,7
+15,4/17/2020,3,Will Marshall,Fakie varial kickflip to switch fs shove,1,,,,,gap,,Pulaski,,8
+15,4/17/2020,2,Tiago Lemos,360flip,1,,1,,1,stairs,Up stairs,Pulaski,,9
+15,4/17/2020,1,Clive Dixon,Fs nosebluntslide,,,1,,1,ledge,hubba,Staples Center,,10
+16,4/24/2020,10,Jacob Elveli,Bs 180 to switch nosegrind to bs half cab,,,,,1,ledge,Out ledge,,,1
+16,4/24/2020,9,Mark Humienik,Bs nosegrind,1,,,,1,Ledge,,,,2
+16,4/24/2020,8,Fabiana Delfino,Fs 180 to switch willy grind to fs revert,,,1,,,transistion,bowl,Skatepark,Woman skater,3
+16,4/24/2020,7,Sylvain Tognelli,Ollie to fs 50-50,,,,,1,Gap,Gap to curb,,,4
+16,4/24/2020,6,Jacob Gottlieb,Bs 180 to switch bs 5-0,,,1,,,rail,handrail,Hudson River Park,,5
+16,4/24/2020,5,Greg Dehart,Bs lipslide,,,1,,1,rail,handrail,,,6
+16,4/24/2020,4,Breana Geering,impossible,,,1,,1,gap,Into bank,China Banks,Woman skater,7
+16,4/24/2020,3,Remy Taveira,Gap to bs lipslide,1,,1,,,ledge,Gap to ledge,,,8
+16,4/24/2020,2,Wes Kremer,Bs 360 ollie,,,1,,1,gap,Over fence,,,9
+16,4/24/2020,1,Hugo Maillard,Ollie to fs 180 to switch fs 180 to bs 180 to switch manual to switch fs 180,1,,,,,pad,,,Quick footed / Combo,10
+17,5/1/2020,10,Omar Hassan,Bs boardslide,,,,,,rail,handrail,,,1
+17,5/1/2020,9,Octoveli,Bs 50-50 to bs wallride,,,,1,,ledge,Out ledge,Zuccotti Park,Reddit,2
+17,5/1/2020,8,Louie Lopez ,Kickflip bs 5-0 to fs 180,1,,,,,ledge,Gap to ledge,,,3
+17,5/1/2020,7,Olli Ilmonen,Fs noseslide to nollie bs heelflip,,,1,,,ledge,Ledge to gap,,,4
+17,5/1/2020,6,Josh Wilson,360flip,,,,,1,gap,Over rail,,,5
+17,5/1/2020,5,Cody Subido,Nollie hardflip,,1,1,1,,gap,,SF Fountain,,6
+17,5/1/2020,4,Tyson Bowerbank,Bs 360 ollie to nose manual,,,1,,1,pad,,skatepark,,7
+17,5/1/2020,3,Milton Martinez,ollie,,,,,1,gap,Gap to bank,,,8
+17,5/1/2020,2,Jack O’Grady,Fs 50-50 transfer,,,1,,1,rail,Rail to gap,,,9
+17,5/1/2020,1,Mike Arnold,Switch bs 360 ollie kicklfip,,1,1,,1,gap,Flat gap,,,10
+18,5/8/2020,10,Hyun Kummer,360flip,1,,,,,gap,,,,1
+18,5/8/2020,9,Hjalte Halberg,Switch kickflip fs noseslide to normal,,1,,1,1,Ledge,,skatepark,,2
+18,5/8/2020,8,Ryan Larue,Fs nosebluntslide to noseblunt/tailslide to fs wallride,,,,,,ledge,Ledge to wall,,,3
+18,5/8/2020,7,Sam Nobbs,Bs noseslide to nollie fs shove to nose manual ,1,,,,,ledge,,Lloyds,Combo,4
+18,5/8/2020,6,Dustin Henry,Ollie to Fs wallride,1,,,,,wall,Wall down stairs,,,5
+18,5/8/2020,5,Eduardo Da Rocha,heelflip,1,,,,,stairs,,,7 trick line,6
+18,5/8/2020,4,Kevin White,Switch Fs heelflip,,1,1,,,gap,Over rail into bank,,,7
+18,5/8/2020,3,Stafhon Boca,Nollie heelflip,,,,,,gap,Over rail,3rd & Army,,8
+18,5/8/2020,2,Harry Lintell,Bs boardslide,1,,1,,,rail,Flat rail  ,,,9
+18,5/8/2020,1,Jameel Douglas,Fs slappy nosegrind,,,,,,ledge,,SF Hills,,10
+19,5/15/2020,10,Alex Hallford,Ollie to fs wallride to transfer to fakie,1,,,1,,transistion,Quarterpipe to wall,Indoor park,,1
+19,5/15/2020,9,Albert Nyberg,Kickflip bs wallride,,,1,,,wall,,,,2
+19,5/15/2020,8,Jackson Davis,Bs noselide to fakie,,,,,,rail,Handrail,,,3
+19,5/15/2020,7,Kai Kishi,Fakie varial kickflip to switch manual to switch kickflip,,,1,,,pad,,,,4
+19,5/15/2020,6,Yeelen Moens,fs wallride bs shove to fakie,,,1,,1,wall,Bank to wall,DIY park,,5
+19,5/15/2020,5,Nick Hall,Kickflip hippy jump,,,1,,1,gap,,,Quick footed,6
+19,5/15/2020,4,Alexis Ramirez,Bs 50-50,,,,1,,ledge,,Round and round planter,Crazy obstacle,7
+19,5/15/2020,3,Tyshawn Jones,Nollie heelflip,,1,1,1,1,gap,Over rail into bank,,,8
+19,5/15/2020,2,Martino Cattaneo,Bs 180,,,,,1,gap,Over rail into bank,,,9
+19,5/15/2020,1,Axel Cruysberghs,Fs lipslide to gap to fs lipslide to fakie,,,1,,,rail,Rail to curb,,,10
+20,5/22/2020,10,Connor Kammerer,Ollie to ollie to ollie to manual to kickflip,1,,,,,pad,,,Quick footed,1
+20,5/22/2020,9,Phil,Slappy ollie to bs nosebluntslide,,,1,1,,curb,,,,2
+20,5/22/2020,8,Dillon Catney,Switch fs kickflip,1,1,,,1,flat,,,,3
+20,5/22/2020,7,Oskar Rozenberg,Bs 180 to switch manual to switch fs 180 ,,,,1,1,transistion,,Skatepark,,4
+20,5/22/2020,6,Simon Jensen,Switch pole jam,1,1,,,1,pole,Bank to pole,,,5
+20,5/22/2020,5,Mariah Duren,hardflip,,,1,,,gap,Over rail,,Woman skater,6
+20,5/22/2020,4,Leo Favaro,Fakie ollie to switch fs crooked to fakie varial kickflip,,,1,,,Ledge,,,,7
+20,5/22/2020,3,Tyshawn Jones,Bs kickflip,,,1,1,1,gap,Bump to over bar,,On Novelty board,8
+20,5/22/2020,2,Jacopo Carozzi,Kickflip bs smith,1,,,1,,Ledge,,,,9
+20,5/22/2020,1,Mason Silva,Bs half cab to bs crooked,,,1,,1,ledge,Out ledge,Oakland Courthouse,,10
+21,5/29/2020,10,Ian Clelland,Bs wallride nollie bs 180,,,,1,,Wall,,,,1
+21,5/29/2020,9,Chris Colburn,Fs shove to bs 50-50,1,,,,,rail,Handrail,,,2
+21,5/29/2020,8,Remy Taveira,Nollie heelflip hippy jump,,1,,,,gap,Over rail,,,3
+21,5/29/2020,7,Leon Chapdelaine,Ride on fs tailslide to bs boardslide to fakie,,,,1,,ledge,Ledge to ledge,,,4
+21,5/29/2020,6,Oskar Rozenberg,Bs 270 ollie to fs nose pivot to bs 270 revert,1,,,1,,transistion,bowl,Skatepark,,5
+21,5/29/2020,5,Alex Elfving,Bs wallride,,,,,1,wall,Wall to bank,,,6
+21,5/29/2020,4,Ibu Sanyang,kickflip,1,,,,,gap,Over bench,,4 kickflip line,7
+21,5/29/2020,3,Cyrus Bennett,Fs kickflip,,,,1,1,Hip,,,,8
+21,5/29/2020,2,Tyshawn Jones,Bs half cab heelflip,,,,1,,flat,Over trash can,,,9
+21,5/29/2020,1,Yuri Facchini,Bs noseslide to bs noseslide to bs noseslide to bs noseslide,,,,1,,ledge,Ledge to ledge,,,10
+22,6/12/2020,10,Günes Özdogan,Hardflip,,,1,,1,gap,Flat gap,,BLACK HISTORY TOP TEN ON 6/5/2020,1
+22,6/12/2020,9,Jahmir Brown,Switch hardflip,,1,1,,,gap,Flat gap,,,2
+22,6/12/2020,8,Brandon Scott James,Fakie ollie to switch fs noseslide to fakie,1,,,1,,Ledge,,,,3
+22,6/12/2020,7,Will Marshall,Switch fs crooked to fakie bs shove,,1,1,,,ledge,,,,4
+22,6/12/2020,6,Billy McFeely,Fs 180 to switch fs nosegrind,,,1,,1,ledge,hubba,,,5
+22,6/12/2020,5,Patrick Riberg,Switch fs big spin to nollie fs shove,,1,,,,bank,Into bank,,,6
+22,6/12/2020,4,Jake Hayes,Bs shove,,,1,1,,flat,Over trash can,,,7
+22,6/12/2020,3,Pedro Biagio,Bs 180,1,,,1,,gap,Flat gap,,,8
+22,6/12/2020,2,Alex Moran,Hill bomb,1,,,,,Flat,,SF Hills,5 trick line,9
+22,6/12/2020,1,Tiago Lemos,Hardflip to fs noseslide,,,1,,,ledge,Gap to ledge,,,10
+23,6/19/2020,10,Tobin Valverde,Fs 180 to switch fs 50-50 to switch bs 180,,,,,1,ledge, ,Rector St.,NEW LOOK,1
+23,6/19/2020,9,Trevor Theriault,Bs half cab kickflip to bs noseslide to nollie heelflip,1,,,,,ledge,,DIY park,,2
+23,6/19/2020,8,Michael Matlock,Bs 50-50 to ollie,,,1,,1,Rail,Handrail,,,3
+23,6/19/2020,7,Ben Lawrie,Switch fs crooked,1,1,,1,,Ledge,,,,4
+23,6/19/2020,6,Greg Demartini,Nollie bs kickflip,,1,1,,,gap,Over rail,,,5
+23,6/19/2020,5,Kyle Wilson,heelflip,,,,1,1,gap,Flat gap,skatepark,,6
+23,6/19/2020,4,Alexis Lacroix,Mute grab bomb drop,1,,,,,gap,,,,7
+23,6/19/2020,3,Thanyan Costa,Bs 180 to switch ride to fakie manual,,,,,,ledge,hubba,,Combo,8
+23,6/19/2020,2,Mike Arnold,Nollie fs 270 ollie to fs bluntslide to fs 270 revert,,1,,1,1,ledge,,DIY park,,9
+23,6/19/2020,1,Ray Barbee,360flip,,,1,1,1,Hip,,Ft. Miley,,10
+24,6/26/2020,10,Pedro Attenborough,Kickflip fs noseslide,1,,,1,,ledge,,MACBA,,1
+24,6/26/2020,9,Bear Myles,Bs shove to fs boardslide,,,,1,,ledge,hubba,,,2
+24,6/26/2020,8,Kris Brown,360flip,,,,,1,gap,Over fence,,,3
+24,6/26/2020,7,Billy Hoogendijk,Fs bluntslide,1,,,,,ledge,Ledge to gap,,Quick footed,4
+24,6/26/2020,6,Jake Johnson,Bs kickflip,,,1,1,1,gap,Over rail,,,5
+24,6/26/2020,5,Andre Beverley,kickflip,,,1,,1,stairs,,,,6
+24,6/26/2020,4,Nile Gibbs,Switch kickflip,,1,,1,1,flat,Over hydrant,,,7
+24,6/26/2020,3,Antonio Durao,Switch fs kickflip,,1,,1,,gap,Into bank,Pool,,8
+24,6/26/2020,2,Josef Skott,Nose manual,,,,,1,pad,Into bank,,,9
+24,6/26/2020,1,Willem van Dijk,Bs 180 to switch manual to switch kickflip,1,,,,,pad,,,,10
+25,7/3/2020,10,Marcello Campanello,360flip,,,1,1,1,gap,Flat gap,,,1
+25,7/3/2020,9,John Gardner,Bs 50-50 to fs smith,,,,,1,ledge,,Art sculpture,Crazy obstacle,2
+25,7/3/2020,8,Victor Cascarigny,kickflip,1,,,1,,stairs,,,5 kickflip line,3
+25,7/3/2020,7,Will Marshall,Switch bs 180,1,1,,1,1,stairs,,,,4
+25,7/3/2020,6,Karsten Kleppan,Fs 50-50 stall to transfer,,,,1,,rail,Flat rail,chain,Crazy obstacle,5
+25,7/3/2020,5,Nik Stain,360flip to manual,1,,,1,1,pad,,,,6
+25,7/3/2020,4,Charles Deschamps,Bs 50-50 to bs wallride to bs crooked,,,,,1,ledge,Ledge to wall to ledge,,Quick footed,7
+25,7/3/2020,3,Branson Howard,Bs crooked,,,,1,,ledge,Gap to ledge,,Self filmed,8
+25,7/3/2020,2,Sega Kroetkov,Hardflip to nose manual to nollie kicklfip,,,,1,1,pad,Gap to pad,,,9
+25,7/3/2020,1,Mason Silva,Bs boardslide to bs 50-50,,,,1,1,rail,handrail,,,10
+26,7/10/2020,10,Antonio Durao,Bs caballerial kicklfip,1,,,1,,stairs,,,,1
+26,7/10/2020,9,Nassim Lachhab,Switch fs kickflip,,1,,1,,stairs,Gap and stairs,,,2
+26,7/10/2020,8,Jesse Boudreau,Bs 360 ollie to 5-0 grind,,,,1,,transistion,,Skatepark,,3
+26,7/10/2020,7,Martino Cattaneo,Bs bluntslide to fakie,,,,,,ledge,hubba,,,4
+26,7/10/2020,6,Schianta Lepori,Fs 50-50,,,,,1,rail,handrail,,,5
+26,7/10/2020,5,Madars Apse,Bs boardslide,,,,,,rail,Flat rail,Kinked flat rail,Crazy obstacle,6
+26,7/10/2020,4,Karl Salah,Kickflip bs nosebluntslide,,,1,1,1,Ledge,,DIY park,,7
+26,7/10/2020,3,Rob Maatman,Bs 270 ollie to switch fs noseslide,1,,,,1,Ledge,,,,8
+26,7/10/2020,2,Vincent Huhta,Ollie to nose manual,,,,,1,gap,Gap to bank,,,9
+26,7/10/2020,1,Jacopo Carozzi,Bs tailslide to heelflip,1,,,,,ledge,,Milan,,10
+27,7/17/2020,10,Shari White,No comply,1,,,,,flat,Into bank,DIY park,Woman skater,1
+27,7/17/2020,9,Ian Clelland,Bs 5-0 to bs revert transfer to fakie manual to fakie ollie,,,,1,,transistion,quarterpipe,Skatepark,Combo,2
+27,7/17/2020,8,Justin Wagener,Nose manual to nollie kickflip,,,,,,hip,,,,3
+27,7/17/2020,7,Spanky,Fs kickflip to switch fs 5-0,1,,,,,ledge,Banked ledge,LA High,,4
+27,7/17/2020,6,Smouvi,Nollie kickflip,1,, ,,1,gap,,Stalin Plaza,,5
+27,7/17/2020,5,Milton Martinez,ollie,1,,,1,,gap,Over rail into bank,,,6
+27,7/17/2020,4,Justin Sommer,hardflip,,,1,,,stairs,,,,7
+27,7/17/2020,3,Akwasí Baffour Owusu,Slappy fs crooked to nollie bs kickflip,1,,,1,,ledge,,,,8
+27,7/17/2020,2,Jaakko Ojanen,Switch fs nosebluntslide to normal,1,1,,,,Ledge,,,,9
+27,7/17/2020,1,Mason Silva,Bs half cab to bs 50-50,,,1,,1,rail,Handrail,Tekashi Ten,3 different tricks to #1,10
+28,7/24/2020,10,Patrick Zentgraf,Nollie bs 180 to switch fs nosegrind,1,1,,,,Ledge,,,,1
+28,7/24/2020,9,Arin,Manual to fs kickflip,,,,1,,pad,,,Trans Skater,2
+28,7/24/2020,8,Wilton Souza,Bs kickflip,,,,1,,gap,Over trash can,,,3
+28,7/24/2020,7,Kaue Cossa,Switch bs tailslide to fakie manual to bs half cab,,1,,,,ledge,,Vale Anhangabau,,4
+28,7/24/2020,6,Matt Miller,Switch Bs shove to switch fs 5-0,,1,1,,,rail,Flat rail,,,5
+28,7/24/2020,5,Alexis Sablone,ollie,,,,,1,gap,Over rail,,Woman skater,6
+28,7/24/2020,4,Tiago Lemos,Fs half cab heelflip,1,,,1,,gap,Over wall,,,7
+28,7/24/2020,3,Thanos Panou,Fs lipslide,,,1,,,Ledge,hubba,,,8
+28,7/24/2020,2,Alex Wllms,Switch slappy fs crooked to fakie kickflip,,1,1,,1,ledge,Bank to ledge,,,9
+28,7/24/2020,1,Barnie Page,Bs noselide to bs noseslide to bs noseslide,1,,,1,1,ledge,Ledge to ledge,,,10
+29,7/31/2020,10,Toby Bennett,Kickflip fs crooked,1,,,,,ledge,,,,1
+29,7/31/2020,9,Ben Gore,ollie,1,,,,,gap,Over rail,,,2
+29,7/31/2020,8,John Worthington,Bs wallride to bs shove to bs wallride,,,,,,wall,,Art sculpture,Crazy obstacle,3
+29,7/31/2020,7,Jesse Alba,Wallride to hippie jump,,,1,,,wall,Bank to wall,,,4
+29,7/31/2020,6,Chris Milic,Wallride to fs kicklfip,,,,,,wall,Bank to wall,,,5
+29,7/31/2020,5,Dustin Henry,Bs bluntslide to kickflip to fakie,,,,,,transistion,Street quarterpipe,LA City Hall,,6
+29,7/31/2020,4,Hayden Burns,Bs caballerial to fakie manual to bs half cab kickflip,,,1,,,pad,Bank to pad to bank,,,7
+29,7/31/2020,3,Philly Santosuosso,Kickflip fs 5-0,1,,,,,Ledge,,Milan,5 trick line,8
+29,7/31/2020,2,Nick Michel,Bs boardslide,,,,,1,rail,handrail,,,9
+29,7/31/2020,1,Jason Nam,Switch kickflip,1,1,,,,stairs,Up stairs,Pulaski,5 trick line,10
+30,8/7/2020,10,Gustav Tonnesen,Bs 5-0 to fs 180 to fakie manual to bs half cab,,,,1,,ledge,,,,1
+30,8/7/2020,9,Rob Wootton,Fakie manual to fakie kickflip,1,,,,,pad,,,,2
+30,8/7/2020,8,John Shanahan,Switch ollie to fakie manual to fakie kickflip to fakie manual to fakie ollie,,1,,,,pad,,,Combo,3
+30,8/7/2020,7,Carl Aikens,Switch bs shove,1,1,1,,1,stairs,,,,4
+30,8/7/2020,6,Zered,Fakie manual to ns half cab kickflip,,,1,1,1,transistion,quarterpipe,Skatepark,,5
+30,8/7/2020,5,Judah Bubes,Switch hardflip,,1,1,,1,stairs,,,,6
+30,8/7/2020,4,Steven Lawyer,360flip to bs noseslide,,,,,,ledge,Hubba,,,7
+30,8/7/2020,3,Mateo Bergil,Fs lipslide,,,,,,ledge,Ledge to gap,,,8
+30,8/7/2020,2,Brandon Turner,360flip to roast beef grab,,,1,,1,gap,Over barrier,,,9
+30,8/7/2020,1,Alexis Ramirez,Fs feeble,,,1,,1,ledge,,Round and round planter,Crazy obstacle,10
+31,8/14/2020,10,Brayan Albarenga,Bs 360 ollie,,,1,1,1,flat,,,,1
+31,8/14/2020,9,Jip Koorevaar,Fs bluntslide to bs 360, ,,,,1,Ledge,,,,2
+31,8/14/2020,8,James Pitonyak,Ollie to bs 360 ollie to bs 180,,,,,,bank,,,Quick footed,3
+31,8/14/2020,7,Sam Sitayeb,Bs smith to inward heelflip,,,,,,ledge,,,,4
+31,8/14/2020,6,Rob Schmitt,Fs revert to ride on switch bs crooked,,,,,,ledge,hubba,Art sculpture,Crazy obstacle,5
+31,8/14/2020,5,Mateo Rael,Bs caballerial,,,,,,gap,Over rail into bank,,,6
+31,8/14/2020,4,Justin Sommer,Fakie hardflip,1,,,,,gap,Over trash can,,Quick footed,7
+31,8/14/2020,3,Jae Overton,360flip to nose manual,,,1,,1,gap,Gap to pad,,,8
+31,8/14/2020,2,Myquel Haddox,ollie,,,,1,,gap,Over barrier,,Crazy obstacle,9
+31,8/14/2020,1,Evan Smith,Bs 180 to switch bs 5-0 to switch bs 180,,,,,1,ledge,hubba,,,10
+32,8/21/2020,10,Elissa Steamer,kickflip,,,,,,gap,Flat gap,SF Hills,Woman skater,1
+32,8/21/2020,9,Hjalte Halberg,Bs tailslide to bs 360 revert,,,,,1,ledge,Banked ledge,,,2
+32,8/21/2020,8,David Jakinda,Switch hardflip,,1,,,,gap,Gap to bank,,,3
+32,8/21/2020,7,Remy Taveira,Transfer bs noseslide to nollie kickflip,,,,1,,curb,,,,4
+32,8/21/2020,6,Paul Grund,Switch kickflip bs 50-50,1,1,, ,,ledge,,,,5
+32,8/21/2020,5,Nik Stain,Fs tailslide to fs big spin,1,,,,1,ledge,,,,6
+32,8/21/2020,4,Digby Luxton,Fakie ollie to switch fs noseslide to nollie bs shove,,,,,,ledge,,,,7
+32,8/21/2020,3,Patrick Zentgraf,Switch fs nosegrind,,1,,,,ledge,,,,8
+32,8/21/2020,2,Tiago Lemos,Nollie bs heelflip,,1,1,,1,gap,Over rail,,,9
+32,8/21/2020,1,Alexis Lacroix,360flip to drop in,, ,,1,,flat,Into bank,Art sculpture,Crazy obstacle,10
+33,8/28/2020,10,Gustav Tonnesen,Fs feeble to bs 180,1,,,,1,ledge,,,,1
+33,8/28/2020,9,Dennis Busenitz,Bs noseslide to nollie kickflip,1,,1,,,ledge,,,On Novelty board,2
+33,8/28/2020,8,Mark Appleyard,Kickflip bs smith,,,1,,1,rail,handrail,,,3
+33,8/28/2020,7,Daewon Song,kickflip,,,1,1,,transistion,Bowl,Skatepark,,4
+33,8/28/2020,6,Dick Rizzo,Switch 360flip to switch pivot to fakie,,1,,1,,transistion,quarterpipe,DIY park,,5
+33,8/28/2020,5,Ducky Kovacs,Bs Feeble to ledge ride,,,,,,rail,handrail,,,6
+33,8/28/2020,4,Jaakko Ojanen,Kickflip nose stall to transfer,,,,1,,ledge,,Big spool,Crazy obstacle,7
+33,8/28/2020,3,Rob Maatman,Bs 50-50 to fs 50-50,,,1,,1,rail,handrail,,Quick footed,8
+33,8/28/2020,2,Jirka Hronek,Bs noseslide to nollie kickflip,,,1,1,1,ledge,Over trash can,Stalin Plaza,,9
+33,8/28/2020,1,Japhey Dow,Switch manual to switch manual to switch manual to switch fs shove,,1,,,,pad,Pad to stairs,,Combo,10
+34,9/4/2020,10,Rowan Davis,Switch fs boardslide to switch fs 270,,1,1,,1,rail,Flat rail to gap,,,1
+34,9/4/2020,9,Amir Denis,360flip to roll on bs crooked to fakie,,,,1,,transistion,quarterpipe,Skatepark,,2
+34,9/4/2020,8,Gabriel Bjørsvik,Nose manual nollie kickflip,,,,1,,pad,,,Crazy obstacle,3
+34,9/4/2020,7,Simon Bannerot,Fs wallride to bs allyoop 360 revert,,,1,,1,wall,,,,4
+34,9/4/2020,6,Louie Lopez ,Fs shove to bs nosegrind,1,,,,1,ledge,Ledge to gap,,,5
+34,9/4/2020,5,Deedz,Wallride to bs 50-50 to roll in,,,,,,ledge,Wall to ledge to wall,,,6
+34,9/4/2020,4,Jake Anderson,Fs lipslide,1,,,,,ledge,Hubba,Gare de Lyon, ,7
+34,9/4/2020,3,Brandon James,kickflip,1,,,,,stairs,,,5 trick line,8
+34,9/4/2020,2,Austyn Gillette,Bs noseslide to switch bs boardslide,,,,,,ledge,Ledge to ledge,,,9
+34,9/4/2020,1,Pedro Delfino,Fs lipslide,,,,,,ledge,Hubba,,,10
+35,9/11/2020,10,Cyrus Bennett,Bs kickflip,,,,1,1,hip,,skatepark,,1
+35,9/11/2020,9,Pacel Khachab,Fakie fs shove to switch fs noseslide to nollie bs shove,,,1,,1,Ledge,,,,2
+35,9/11/2020,8,Victor Campillo,Nose manual to nollie fs kickflip,,,,,,pad,,,,3
+35,9/11/2020,7,Zered,kickflip,1,,,1,,gap,Over barrier,Museum of Natural History,,4
+35,9/11/2020,6,Seven Strong,360flip,,,1,,1,gap,Over trash can,,,5
+35,9/11/2020,5,Patrick O’Mara,Fakie fs shove to switch manual ,,,,,,pad,,,,6
+35,9/11/2020,4,Tom Knox,Bs 180 to switch bs 50-50 to switch fs 180,,,,,,ledge,Hubba,Majorca,,7
+35,9/11/2020,3,Nik Stain,Bs big spin,1,,,,,Stairs,,Majorca,6 trick line,8
+35,9/11/2020,2,Ben Raybourn,Drop in,,,,1,,transistion,Street quarterpipe,,Crazy obstacle,9
+35,9/11/2020,1,Jahmir Brown,Switch bs nosebluntslide,,1,1,,1,ledge,Out ledge,Pyramid Ledges,,10
+36,9/18/2020,10,Mats Edel,Nollie wallie fs kickflip,,1,1,,1,wall,,,,1
+36,9/18/2020,9,Mike Patterson,360flip,1,,,,,transistion,Quarter to quarter gap,,,2
+36,9/18/2020,8,Michael Mieruszynski,kickflip,,,,,1,gap,Over bench,,,3
+36,9/18/2020,7,Mason Coletti,Ollie to hill bomb,,,,,,gap,Over wall,SF Hills,,4
+36,9/18/2020,6,Roger Krebs,Wallie bs air,,,1,,1,Gap,Over barrier,SF Hills,,5
+36,9/18/2020,5,Brayan Coria,Inward heelflip,,, ,, ,Stairs,Up stairs,,,6
+36,9/18/2020,4,Michael Brunner,Nollie bs 180 to switch fs nosegrind to bs half cab,,,1,,1,ledge,,,,7
+36,9/18/2020,3,Kyle Walsh,Roll on bs boardslide,,,,,,rail,Flat rail ,,,8
+36,9/18/2020,2,Tom Knox,Bs smith to bs 180,1,,,1,,ledge,,Majorca,8 trick line,9
+36,9/18/2020,1,Lucas Puig,Switch Kickflip fs bluntslide,,1,1,,,ledge,Gap to ledge,,,10
+37,9/25/2020,10,Lukas Garbas,Nollie wallie bs 360 shove,,,1,1,1,wall,,,,1
+37,9/25/2020,9,Hayden Burns,Bs big spin to fakie manual to  bs half cab,1,,,,,pad,,,Quick footed,2
+37,9/25/2020,8,Ryo Takahashi,Bs wallride,,,,,,wall,Down stairs,,,3
+37,9/25/2020,7,Daewon Song,Kickflip to bounce to switch bs crooked,,,1,1,1,curb, ,Pile of garbage,Crazy obstacle,4
+37,9/25/2020,6,Mark Suciu ,Switch bs bluntslide to switch fs 180 transfer,,1,,1,,rail,Flat rail,,6 trick line,5
+37,9/25/2020,5,Notis Aggelis,ollie,1,,,,,gap,Over rail,,,6
+37,9/25/2020,4,Blake Norris,Bs bluntslide to kickflip,,,1,,,ledge,Hubba,Clipper,,7
+37,9/25/2020,3,Chris Colburn,Ollie to bs crooked transfer,,,,,1,rail,Flat rail,,Quick footed,8
+37,9/25/2020,2,Chris Pfanner,ollie,1,,,,,gap,Over rail into bank,,,9
+37,9/25/2020,1,Huf,ollie,1,,,,,gap,Over barrier,Brooklyn Banks,,10
+38,10/2/2020,10,Sondre Mortensen,Bs wallride to fs boardslide,,,,,1,ledge,bench,,,1
+38,10/2/2020,9,Reese Knobloch,Bs 360 ollie kickflip,,,,,1,stairs,,,,2
+38,10/2/2020,8,Sam Vroman,Nollie kicklfip,,1,,,,flat,Into bank,,,3
+38,10/2/2020,7,Amelien Foures,Bs nosebluntslide,1,,,,,ledge,,Tree stump,Crazy obstacle,4
+38,10/2/2020,6,Marcello Campanello,Kickflip bs 50-50,,,,,,ledge,,,,5
+38,10/2/2020,5,Kai Hillebrand,kickflip,,,1,,,stairs,Up stairs,,,6
+38,10/2/2020,4,Emile Laurent,Indy grab drop in,,,,1,,gap,Into bank,,,7
+38,10/2/2020,3,Diego Alvarado,ollie,,,,1,,flat,Into bank,,Crazy obstacle,8
+38,10/2/2020,2,Vincent Milou,Fs 180 to switch bs crooked,,,1,,1,ledge,hubba,,,9
+38,10/2/2020,1,Dane Burman,Fs 50-50 to roll in,,,,,,rail,handrail,Staples Center,,10
+39,10/9/2020,10,Pat Laflamme,ollie,,,,,,gap,,,,1
+39,10/9/2020,9,Ayahiro Uratsuka,Fs 50-50,,,1,,,rail,Gap to rail,,Quick footed,2
+39,10/9/2020,8,Shogo Zama,Bs 180 to switch manual,, ,,1,,pad,,,Quick footed,3
+39,10/9/2020,7,Tommy Wright,Fakie slappy to fakie manual to fakie kickflip,,, , ,,ledge,,,,4
+39,10/9/2020,6,Dave Abair,Kickflip to manual,1,,,,,pad,,,5 trick line,5
+39,10/9/2020,5,Martino Cattaneo,Fs 50-50,,,,,,transistion,Street quarterpipe to street quarterpipe,,Crazy obstacle,6
+39,10/9/2020,4,Christian Henry,Slappy bs 50-50,,,1,,,ledge,hubba,"Cardiel Ledge, SF",,7
+39,10/9/2020,3,Ryan Santiago,360flip,,,1,,,stairs,,,3 360flip line,8
+39,10/9/2020,2,Mark Suciu ,Bs kickflip to switch bs 5-0,1,,,1,1,ledge,,,6 trick line,9
+39,10/9/2020,1,Max Couling,Bs wallie to 5-0,,,1,,1,wall,Wall to rail,,,10
+40,10/16/2020,10,Troy Gipson,Bs noseslide,1,,,,1,rail,handrail,,,1
+40,10/16/2020,9,Ish Cepeda,Fs bluntslide to kickflip to fakie,,,1,,,ledge,Bank to ledge to bank,,,2
+40,10/16/2020,8,Quinn Batley,Bs 50-50 to nose manual,,,,,,rail,Flat rail,,Didn’t quite land the manual,3
+40,10/16/2020,7,Aidan Mackey,Manual to ollie to manual dirt ride,,,,,,pad,,,Combo,4
+40,10/16/2020,6,Max Geronzi,Switch bs shove,,1,1,,1,gap,,,,5
+40,10/16/2020,5,Hjalte Halberg,Bs tailslide to bs bigspin,1,,,1,,ledge,,,Quick footed,6
+40,10/16/2020,4,Bobby DeKeyzer,Switch fs 180 to manual to bs 180,,1,,,,pad,Over rail,,,7
+40,10/16/2020,3,Kevin Rodrigues,Nollie bs 180 to switch bs 50-50,,1,1,,1,curb,Gap to curb,,,8
+40,10/16/2020,2,Alexis Ramirez,Bs lipslide,,,1,,1,Rail,Flat rail,,,9
+40,10/16/2020,1,AVE,Big flip,1,,,,,gap,Curb cut,,,10
+41,10/23/2020,10,Korahn Gayle,Fakie kickflip to switch bs 5-0,1,,,,,ledge,,,,1
+41,10/23/2020,9,Jordan Trahan,Varial kickflip,1,,,,1,gap,Over trash can,,,2
+41,10/23/2020,8,Ville Wester,Fakie to switch bs nosegrind,,,,,,Ledge,Ledge to gap,Milan,On Novelty board,3
+41,10/23/2020,7,Elijah Ackerly,Bs nosebluntslide,,,,,,transistion,Gap to ledge,Skatepark,Crazy obstacle,4
+41,10/23/2020,6,Lucas Puig,Switch bs tailslide,,1,1,1,,ledge,,,,5
+41,10/23/2020,5,Cody Chapman,Ollie,,,,1,,flat,Into bank,,,6
+41,10/23/2020,4,Philly Santosuosso,Kickflip,,,,,,gap,Over barrier,,,7
+41,10/23/2020,3,John Dilo,Roll on nose manual to nollie to nose manual to nollie,,,,,,Stairs,,,Combo,8
+41,10/23/2020,2,Casper Brooker,Bs bluntslide,1,,,,,ledge,Ledge to gap,Milan,6 trick line,9
+41,10/23/2020,1,Zane Tipson,Fs 360 ollie to wallride,,,1,,1,gap,Gap to wall,,Crazy obstacle,10
+42,10/30/2020,10,Tommy May,Bs 180 to switch bs nosebluntslide to bs revert,,,,,1,ledge,Ledge to gap,,,1
+42,10/30/2020,9,Roman Gonzalez,Slappy bs smith,1,,,,,curb,,,,2
+42,10/30/2020,8,Max Wasungu,Fs 180 to switch bs crooked transfer,,,,1,,ledge,hubba,,,3
+42,10/30/2020,7,Dan Plunkett,Switch ghetto bird,,1,,,,hip,,,,4
+42,10/30/2020,6,Olli Ilmonen,Kickflip fs noseslide to fakie,,,,,,ledge,,,,5
+42,10/30/2020,5,Mason Silva,FS lipslide to fs lipslide to fakie,,,,,1,rail,Handrail,,,6
+42,10/30/2020,4,Ethan Loy,Ollie to kickflip,,,,,,gap,Over rail,,,7
+42,10/30/2020,3,Simon Bannerot,Fs 50-50,,,1,,1,ledge,Ledge to gap,,,8
+42,10/30/2020,2,Axel Cruysberghs,Bs wallie to bs shove,,,1,,1,Stairs,Wall to up stairs,,,9
+42,10/30/2020,1,at_akeemvstheworld,ollie,,,,1,,Stairs,,,Going by instagram handle,10
+43,11/6/2020,10,Tom Karangelov,Bs 50-50 to 50-50,,,1,,,ledge,Ledge to rail,,Combo,1
+43,11/6/2020,9,Ish Cepeda,fakie heelflip,1,,1,,,Stairs,,,,2
+43,11/6/2020,8,Matisse Banc,Fs 50-50 to noseblunt to drop in,1,,,,1,rail,Flat rail to bank,,,3
+43,11/6/2020,7,Hosea Peeters,Nollie fs 180 to switch fs nosegrind to bs revert,1,1,,,,ledge,,Museum of Natural History,,4
+43,11/6/2020,6,Oskar Rozenberg,Cabellerial rock to bs revert,1,,,1,1,transistion,bowl,Indoor park,,5
+43,11/6/2020,5,Marky McCoy,Bs 50-50 transfer to 50-50 pole jam in,, ,,,,rail,Flat rail to pole,,Combo,6
+43,11/6/2020,4,Edouard Depaz,Ollie to fs lipslide,,,1,,1,curb,Over trash can to curb,,,7
+43,11/6/2020,3,Franky Villani,Fs kickflip,,,1,,,gap,Over rail,,,8
+43,11/6/2020,2,Liam McCabe,kickflip,,,,,1,stairs,,,,9
+43,11/6/2020,1,Noah Nayef,Ollie to fs bluntslide to fakie,,,1,,1,gap,Gap to curb,,,10
+44,11/13/2020,10,Cher Strauberry,Pressure Flip,1,,1,,,gap,,EMB,Trans Skater,1
+44,11/13/2020,9,Myles Underwood,Roll on to pressure flip,1,,,,,flat,rock,,,2
+44,11/13/2020,8,Grayson Schick,Bs wallride,,,1,,,wall,Down stairs,,,3
+44,11/13/2020,7,Robert Neal,Switch heelflip,,1,1,,,Stairs,,,,4
+44,11/13/2020,6,Leo Baker,Nose manual to nollie kickflip,1,,1,,1,pad,Upwards pad,,Trans Skater,5
+44,11/13/2020,5,Giovanni Vianna,Bs nosebluntslide,,,1,,1,rail,handrail,,,6
+44,11/13/2020,4,Trent McClung,Ollie over to fs noseslide to nollie transfer,1,,,,1,ledge,Ledge to gap,,,7
+44,11/13/2020,3,Miles Silvas,Nollie bs kickflip,,1,1,,1,gap,Over rail into bank,,,8
+44,11/13/2020,2,Tom Knox,360flip to ollie to ollie to fs 180,1,,,,,stairs,Up stairs,,Quick footed,9
+44,11/13/2020,1,Hyun Kummer,Bs big flip,1,,1,,,stairs,,,Quick footed,10
+45,11/20/2020,10,Daan Van Der Linden,Bs wallride to allyoop nollie to  bs axel stall ,,,,,,wall,Bank to wall,,,1
+45,11/20/2020,9,Kader Sylla,Switch kickflip,1,1,,,1,stairs,,,,2
+45,11/20/2020,8,Joao Galvao,Ollie to nose bonk,,,,1,,gap,,,,3
+45,11/20/2020,7,Kentaro Powell,Polejam bs 50-50 to tail,,,1,,,pole,,,,4
+45,11/20/2020,6,Shareef Grady,Bs shove,,,,,1,stairs,,,,5
+45,11/20/2020,5,Lucas Puig,Switch wallie to fs 180 fs body varial,1,1,,1,,wall,,,,6
+45,11/20/2020,4,Vincent Milou,Bs smith,,,1,,,ledge,hubba,La Dome,,7
+45,11/20/2020,3,John Shanahan,Fakie bs bigspin to manual to bs bigspin,,,,,,pad,,C Benches,,8
+45,11/20/2020,2,Mason Silva,Bs boardslide to bs boardslide,,,,,,rail,handrail,,,9
+45,11/20/2020,1,Tom Knox,Ollie to bs lipslide,1,,1,,,gap,Over trash can to curb,,5 trick line,10
+46,11/27/2020,10,Tyler Surrey,Nollie Wallie 360flip,,1,1,,1,Wall,,,,1
+46,11/27/2020,9,Hugo Maillard,Fakie kickflip to switch manual to switch wallride to fakie,,,,,,flat,Flat to wall,,,2
+46,11/27/2020,8,Wes Kremer,Backside wallride to fs 180 to switch fs overcrooked,,,1,,1,rail,handrail,,,3
+46,11/27/2020,7,TJ Rogers,Switch bs shove,1,1,,,,gap,Over rail,,,4
+46,11/27/2020,6,Leo Cholet,Nollie bs 180,,1,1,,1,gap,Into bank,,,5
+46,11/27/2020,5,Gilbert Crockett,Bs kickflip to switch manual to switch fs 180,,,1,,1,pad,,,,6
+46,11/27/2020,4,Alexis Ramirez,Bs 50-50,,,1,,1,rail,handrail,,,7
+46,11/27/2020,3,Alex Wllms,Bs 50-50,,, , ,1,rail,Rail to gap,,,8
+46,11/27/2020,2,Elijah Berle,50-50,,,,,,rail,Rail to rail,,,9
+46,11/27/2020,1,Brandon Turner,Switch hardflip,,1,1,,1,gap,,Wallenberg,,10
+47,12/4/2020,10,Hiroki Muraoka,Ollie,,,1,,1,gap,Thread the needle,,Crazy obstacle,1
+47,12/4/2020,9,Johnny Purcell,Switch fs crooked,,1,,,,ledge,,,,2
+47,12/4/2020,8,Jake Johnson,Fs heelflip,,,,,,gap,Over rail,,,3
+47,12/4/2020,7,Leon Charo-Tite,Bs 180 to noseblunt,,,1,,1,transistion,Street quarterpipe,,Crazy obstacle,4
+47,12/4/2020,6,Taylor Kirby,Kickflip,,,1,,1,gap,Street gap,,,5
+47,12/4/2020,5,Milton Martinez,Fs 180,1,,,,,Stairs,,,,6
+47,12/4/2020,4,Jamie Foy,Bs tailslide to bs 360,,,,,1,ledge,Out ledge,Zuccotti Park,,7
+47,12/4/2020,3,Louie Lopez ,Bs noseslide to nollie kickflip,1,,,,1,curb,,,,8
+47,12/4/2020,2,Alexis Sablone,Kickflip,1,,,,1,gap,Over barrier,Museum of Natural History,,9
+47,12/4/2020,1,Pedro Delfino,Fs 50-50,,,1,,1,Rail,Handrail,,,10
+48,12/11/2020,10,Robbin De Wit,Fs shove to bs nosegrind to bs 180,,,1,,1,ledge,,,,1
+48,12/11/2020,9,Alex Richard,Heelflip to bs lipslide,,,,,1,curb,Gap to curb,,,2
+48,12/11/2020,8,Will Marshall,Fs shove to bs nosegrind to heelflip,,,,1,,ledge,,Museum of Natural History,,3
+48,12/11/2020,7,Casper Brooker,Bs smith to bs 180,1,,,1,,ledge,,South Bank,,4
+48,12/11/2020,6,David Holzknecht,Switch kickflip,1,1,,,,gap,Over barrier,,,5
+48,12/11/2020,5,John Francomacaro,Kickflip foot plant,,,,,,gap,Over barrier,Blubba,,6
+48,12/11/2020,4,Andrew Wilson,Manual to roll on 5-0, ,,,,,rail,Ledge to rail,,,7
+48,12/11/2020,3,Max Palmer,Nollie to bs noseblunt firecracker,,1,1,,1,gap,,Max Palmer Park,,8
+48,12/11/2020,2,Nik Stain,Nose manual,,,,,,Pad,Pad to stairs,,,9
+48,12/11/2020,1,Cyrus Bennett,Bs tailslide to bs kickflip,,,,,,ledge,Hubba,Blubba,,10
+49,12/18/2020,10,Keith Denley,360flip,1,,,,,gap,Flat gap,,,1
+49,12/18/2020,9,Kevin Coakley,Nollie nose manual,,1,,,,pad,,,,2
+49,12/18/2020,8,Akobi Williams,Early grab bs shove,1,,,,1,Stairs,,,,3
+49,12/18/2020,7,Tyler Dietterich,Bs smith,,,,,1,Rail,handrail,,,4
+49,12/18/2020,6,Dan Fisher-Eustance,Switch bs 360 ollie,,1,1,,1,Hip,,,,5
+49,12/18/2020,5,Luke Malaney,Manual to ollie to ollie,,,,,,pad,,,Quick footed,6
+49,12/18/2020,4,Max Murphy,Bs crooked,1,,,,,rail,Into bank,,Aka Hank Scorsese,7
+49,12/18/2020,3,Elijah Berle,180 to switch overcrooked to fakie,,,,,,rail,Bank to flat rail,,,8
+49,12/18/2020,2,Carl Aikens,Bs big spin,,,,,,gap,Over barrier,Blubba,,9
+49,12/18/2020,1,Dougie George,Nose manual to nollie bs kickflip,,,1,,1,pad,Into bank,South Bank,,10
